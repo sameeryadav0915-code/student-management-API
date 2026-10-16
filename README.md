@@ -217,7 +217,7 @@ Through this project, I practised:
 
 <div align="center">
 
-### Hi, I'm YOUR-NAME! 👋
+### Hi, I'm Sameer Kumar! 👋
 
 🎓 B.Tech Student  
 💻 Aspiring Python & Backend Developer  
